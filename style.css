@@ -36,9 +36,9 @@ section{
     margin: auto;
 }
 .max-widthh{
-    width: 3000px;
+    max-width: 3000px;
     padding: 0 80px;
-    
+    margin: auto;
 }
 .about, .services, .skills, .teams, .contact, footer{
     font-family: 'Poppins', sans-serif;
